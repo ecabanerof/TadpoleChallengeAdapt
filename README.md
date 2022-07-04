@@ -7,10 +7,7 @@ in association with the [Alzheimer's Disease Neuroimaging Initiative](http://adn
 
 Git repository: https://github.com/noxtoby/TADPOLE
 
-This collection of code has two purposes:
-1. Helper scripts to assist the participants of [TADPOLE Challenge 2017](http://tadpole.grand-challenge.org) to generate submissions for the challenge.
-2. For those interested in how we generated the TADPOLE standard data sets, or how we will evaluate submissions to the Challenge, we've made the scripts available here.
+The Tadpole Repository has a problematic error solved in this code.
+If you are using the "TADPOLE_D1.m" "TADPOLE_D2.m" and have a code error in MATLAB this code solved.
 
-Helper scripts and Evaluation scripts are available in the [evaluation](evaluation) folder.
-
-Scripts used to generate the TADPOLE standard data sets are in the [top](.) folder.
+The files that were used to build the database were upgraded to 2021 csv info, improving the first TADPOLE Challenge 2017 database, to better predict cases and balance the database
