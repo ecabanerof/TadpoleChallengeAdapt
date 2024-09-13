@@ -12,6 +12,7 @@ This repository provides a solution for errors encountered while using the "TADP
 
 - The TADPOLE database has been **upgraded** to include **2021 CSV data**, improving upon the original 2017 TADPOLE Challenge database.
 - This update helps to **better predict Alzheimer’s cases** by providing a more balanced and comprehensive dataset, leading to improved prediction accuracy.
+- For more information take a look of the  Bachelor's Thesis: "Prediction of Alzheimer's vs. Dementia"[https://repositorio.uam.es/bitstream/handle/10486/698008/caba%C3%B1ero_fernandez_emilio.tfg.pdf?sequence=1] with the best results than the official challenge **mAUC = 0.935** and **BCA = 0.87**
 
 ## 🔗 Useful Links
 
