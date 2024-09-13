@@ -1,13 +1,21 @@
-# TADPOLE
-The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge involves predicting future data for elderly people at risk of contracting Alzheimer's disease. Specifically, participants in the ADNI-3 study: http://adni3.org
+# 🧠 TADPOLE Challenge - Alzheimer's Disease Prediction
 
-[TADPOLE Challenge](http://tadpole.grand-challenge.org)
-is brought to you by the [EuroPOND consortium](http://europond.eu)
-in association with the [Alzheimer's Disease Neuroimaging Initiative](http://adni.loni.usc.edu) (ADNI)
+**The TADPOLE Challenge** (*Alzheimer's Disease Prediction Of Longitudinal Evolution*) is a global initiative aimed at predicting future data for elderly individuals at risk of developing Alzheimer’s disease, particularly participants from the [ADNI-3 study](http://adni3.org).
 
-Git repository: https://github.com/noxtoby/TADPOLE
+This challenge is organized by the [EuroPOND consortium](http://europond.eu) in collaboration with the [Alzheimer's Disease Neuroimaging Initiative (ADNI)](http://adni.loni.usc.edu).
 
-The Tadpole Repository has a problematic error solved in this code.
-If you are using the "TADPOLE_D1.m" "TADPOLE_D2.m" and have a code error in MATLAB this code solved.
+## 📝 Project Overview
 
-The files that were used to build the database were upgraded to 2021 csv info, improving the first TADPOLE Challenge 2017 database, to better predict cases and balance the database
+This repository provides a solution for errors encountered while using the "TADPOLE_D1.m" and "TADPOLE_D2.m" MATLAB files, which are commonly used in conjunction with the TADPOLE Challenge datasets. If you experienced code issues in MATLAB when working with these files, this repository offers a fix.
+
+### 🔄 Updates and Improvements
+
+- The TADPOLE database has been **upgraded** to include **2021 CSV data**, improving upon the original 2017 TADPOLE Challenge database.
+- This update helps to **better predict Alzheimer’s cases** by providing a more balanced and comprehensive dataset, leading to improved prediction accuracy.
+
+## 🔗 Useful Links
+
+- **TADPOLE Challenge Website:** [TADPOLE Challenge](http://tadpole.grand-challenge.org)
+- **EuroPOND Consortium:** [EuroPOND](http://europond.eu)
+- **ADNI Initiative:** [Alzheimer's Disease Neuroimaging Initiative](http://adni.loni.usc.edu)
+- **GitHub Repository:** [TADPOLE GitHub Repository](https://github.com/noxtoby/TADPOLE)
